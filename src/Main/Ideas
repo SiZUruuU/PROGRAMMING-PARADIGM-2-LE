@@ -1,0 +1,12 @@
+The Gist of the App:
+
+App Names:
+1. One Food Only
+2. Recipe+
+3. CookAny
+4. OneDish
+5. RecipeHub
+
+The app shares all recipes that involve certain ingredients and are rated based on difficulty and time-consumption. For example, if a person inputs "Potato",
+the app should show all recipes involving a potato. Recipes will also contain parameters like: Difficulty, average cooking time, number of recipes, calorie count,
+nutritional value, best-eaten in ___.
