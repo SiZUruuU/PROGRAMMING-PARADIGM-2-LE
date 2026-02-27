@@ -10,6 +10,11 @@ public class MainClass {
         window.setResizable(false);
         window.setTitle("Recipe++");
 
+        Panel panel = new Panel();
+        window.add(panel);
+
+        window.pack();
+
         window.setLocationRelativeTo(null);
         window.setVisible(true);
     }
